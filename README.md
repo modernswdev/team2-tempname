@@ -13,3 +13,4 @@ Team 2's Project Repository
 * Alicia Johansen
     * <https://github.com/AJohansen-code>
 * Khangai Altangerel
+    * <https://github.com/hannku>
