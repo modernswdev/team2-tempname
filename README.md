@@ -10,3 +10,6 @@ Team 2's Project Repository
     * <https://github.com/leoldfield>
 * Michal Griff
     * <https://github.com/michalgriff>
+* Alicia Johansen
+    * <https://github.com/AJohansen-code>
+* Khangai Altangerel
