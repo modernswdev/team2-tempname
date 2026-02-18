@@ -2,7 +2,7 @@
 
 - Scrum Master
   - Grayson
-- Front-End
+- Frontend
   - Michal 
   - (null)
 - Backend
